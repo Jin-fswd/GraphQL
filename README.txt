@@ -8,7 +8,7 @@ GRAPHQL PLAYGROUND COMMANDS FOR TEST
 # }
 
 # mutation {
-#   createPost(newPost: {title: "최고의 요리법", content: "여기 몇 가지 훌륭한 요리법이 있습니다...", tagId: "f5f5f5f5-f5f5-f5f5-f5f5-f5f5f5f5f5f5"}) {
+#   createPost(newPost: {title: "test post", content: "yeah", tagId: "f5f5f5f5-f5f5-f5f5-f5f5-f5f5f5f5f5f5"}) {
 #     id
 #     title
 #     content
